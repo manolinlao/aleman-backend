@@ -1,0 +1,993 @@
+ser,sein,,v
+estar,sein,,v
+estar,stehen,,v
+llamarse,heiße,,v
+venir,kommen,,v
+ir,gehen,,v
+vivir,wohnen,,v
+hablar,sprechen,,v
+aprender,lernen,,v
+estudiar,studieren,,v
+deletrear,buchstabieren,,v
+controlar,kontrollieren,,v
+decir,lauten,,v
+tener,haben,,v
+leer,lesen,,v
+escribir,schreiben,,v
+quién,wer,,o
+qué,was,,o
+de dónde,woher,,o
+a dónde,wohin,,o
+dónde,wo,,o
+cuál,welch,,o
+cuándo,wann,,o
+cuánto,wie viel,,o
+hola,hallo,,o
+la mañana,der morgen,
+la mañana después de las 10,der vormittag,
+mediodía,der mittag,
+tarde,der nachmitag,
+noche,die nacht,nächte
+adiós,tschüs,,o
+adiós,auf wiedersehen,,o
+hasta la vista,auf wierdersehen,,o
+y,und,,o
+de,aus,,o
+en,in,,o
+eso,das,,o
+por supuesto,natürlich,,o
+entonces,denn,,o
+entonces,dann,,o
+bien,gut,,o
+bueno,gut,,o
+fantástico,super,,o
+de,von,,o
+aquí,hier,,o
+muy,sehr,,o
+correcto,richtig,,o
+falso,falsch,,o
+no,nicht,,o
+no,nein,,o
+para nada,gar,,o
+pero,aber,,o
+genial,toll,,o
+un poco,ein bisschen,,o
+palabra,das wort,worte
+respuesta,die antwort,antworten
+color,die farbe,farben
+ser de profesión,von beruf sein,,v
+vivir,leben,,v
+hacer,machen,,v
+trabajar,arbeiten,,v
+presentarse,sich vorstellen,,v
+costar,kosten,,v
+entender,verstehen,,v
+entender,verstanden,,v
+repetir,wiederholen,,v
+perdonar,entschuldigen,,v
+disculpar,entschuldigen,,v
+arquitecto,der architekt,architekten
+arquitecta,die architektin,architektinen
+periodista,der journalist,journalisten
+diseñador,der designer,designer
+secretario,der sekretär,sekretäre
+secretaria,die sekretärin,sekretärinen
+electricista,der elektriker,
+profesor,der lehrer,
+profesora,die lehrerin,lehrerinen
+enfermero,der krankenpfleger,
+enfermera,die krankenschwester,krankenschwestern
+músico,der musiker,
+vendedor,der verkäufer,
+vendedora,die verkäuferin,verkäuferinen
+farmacéutico,der apotheker,
+médico,der ärzt,ärzte
+médica,die ärztin,ärztinen
+con,mit,,o
+sólo,nur,,o
+solamente,nur,,o
+un poco,wenig,,o
+en,bei,,o
+por favor,bitte,,o
+ahora,nun,,o
+ahora,jetzt,,o
+brevemente,kurz,,o
+corto,kurz,,o
+breve,kurz,,o
+de,als,,o
+para,für,,o
+hoy,heute,,o
+ayer,gestern,,o
+muchas gracias,vielen dank,,o
+otra vez,noch mal,,o
+mucho,vielen,,o
+vez,mal,,o
+otro,noch,,o
+edad,das alter,
+profesión,der beruf,berufe
+estado civil,der familienstand,
+año,das jahr,jahre
+viejo,alt,,a
+casado,verheiratet,,a
+soltero,ledig,,a
+divorciado,geschieden,,a
+niño,das kind,kinder
+moda,die mode,moden
+entrevista,das interview,interviews
+reportaje,das reportage,reportagen
+lápiz,der bleistift,blaltoeistifte
+bolígrafo,der kugelschreiber,
+formulario,das formular,formulare
+sello,die briefmarke,briefmarken
+móvil,das handy,handys
+llave,der schlüssel,
+gafas,die brille,brillen
+calendario,der kalender,
+libro,das buch,bücher
+impresora,der drucker,
+ratón,die maus,mäuse
+carné de identidad,der ausweis,ausweise
+identificación,der ausweis,ausweise
+en total, zusammen,,o
+por separado,getrennt,,o
+rojo,rot,,a
+azul,blau,,a
+negro,schwarz,,a
+verde,grün,,a
+blanco,weiß,,a
+amarillo,gelb,,a
+gris,grau,,a
+naranja,orange,,a
+rosa,pink,,a
+marrón,braun,,a
+despacio,langsam,,o
+lentamente,langsam,,o
+alto,laut,,a
+pañuelo,das taschentutch,taschentutcher
+auriculares,der kophöfer,
+foto,das foto,fotos
+vaso,das glas,gläser
+estudiante,der student,studenten
+querer,wollen,,v
+gustar hacer,gern machen,,v
+jugar,spielen,,v
+nadar,swimmen,,v
+correr,joggen,,v
+hacer senderismo,wandern,,v
+ir en bici,fahrrad fahren,,v
+esquiar,ski fahren,,v
+fotografiar,fotografieren,,v
+cocinar,kochen,,v
+oir,hören,,v
+escuchar,hören,,v
+saber,wissen,,v
+comer,essen,,v
+beber,trinken,,v
+empezar,beginnen,,v
+quedarse,bleiben,,v
+permanecer,bleiben,,v
+celebrar,feiern,,v
+ser verdad,stimmen,,v
+necesitar,brauchen,,v
+buscar,suchen,,v
+creer,glauben,,v
+dormir,schlafen,,v
+tener buen aspecto,aussehen,,v
+ver,sehen,,v
+sí,ja,,o
+no,nein,,o
+aquí,da,,o
+o,oder,,o
+hasta,bis,,o
+desde,ab,,o
+más,noch,,o
+algo,etwas,,o
+algo,was,,o
+fácil,einfach,,a
+difícil,schwer,,a
+difícil,schwerig,,a
+enseguida,gleich,,o
+quizás,vielleicht,,o
+seguramente,bestimmt,,o
+por eso,deshalb,,o
+por,über,,o
+durante,über,,o
+ni idea,keine ahnung,,o
+sin problema,kein problem,,o
+por desgracia,leider,,o
+el próximo,nächst,,o
+después,nach,,o
+aproximadamente,circa,,o
+temprano,früh,,o
+deporte,der sport,
+bicicleta,das fahrrad,fährrader
+semana,die woche,wochen
+fin de semana,das wochenende,wochenenden
+hora,die uhr,uhren
+guitarra,die gitarre,gitarren
+bebida,das getränk,getränke
+comida,das essen,
+cumpleaños,der geburtstag,geburtstage
+pastel de cumpleaños,die geburtstagtarte,
+fiesta,die party,partys
+saludo,der gruß,gruße
+un abrazo,liebe gruße,,o
+tiempo,die zeit,zeiten
+mes,der monat,monate
+lunes,der montag,montage
+martes,der dienstag,dienstage
+miércoles,der mittwoch,mittwoche
+jueves,der donnerstag,donnerstage
+viernes,der freitag,freitage
+sábado,der samstag,samstage
+domingo,der sonntag,sonntage
+cocina,die küche,küchen
+pastel,der kuchen,
+nuevo,neu,,o
+primero,erst,,o
+segundo,zweit,,o
+tercero,drift,,o
+juntos,gemeinsam,,o
+biblioteca,die bibliothek,bibliotheken
+padres,die eltern,
+bus,der bus,busse
+reloj,die uhr,uhren
+teléfono,das telefon,telefone
+salón,das wohnzimmer,
+juego,das spiel,spiele
+bolso,die tasche,taschen
+bolsa,die tasche,taschen
+bolsa,die tüte,tüten
+cosa,das ding,dinge
+cosa,die sache,sachen
+foto,das bild,bilder
+imagen,das bild,bilder
+diccionario,das wörterbuch,wörterbücher
+deber,müssen,,v
+tener que,müssen,,v
+comer,essen,,v
+beber,trinken,,v
+ir,gehen,,v
+traer,bringen,,v
+querer,mochten,,v
+tomar,nehmen,,v
+coger,nehmen,,v
+encontrar,finden,,v
+poder,könnnen,,v
+cerrar,schließen,,v
+estar situado,liegen,,v
+haber,geben,,v
+ver,sehen,,v
+durar,dauern,,v
+ir ahí,hingehen,,v
+pagar,zahlen,,v
+pagar,bezahlen,,v
+pedir,bestellen,,v
+acabar,enden,,v
+desear,wünschen,,v
+gustar,schmecken,,v
+saber bien,schmecken,,v
+saber,schmecken,,v
+desayunar,frühstucken,,v
+escalar,klettern,,v
+abrir,öffnen,,v
+preguntar,fragen,,v
+visitar,besuchen,,v
+viajar,reisen,,v
+gratis,gratis,,o
+gratis,frei,,o
+de verdad,richtig,,o
+ojalá,hoffentlich,,o
+deprisa,schnell,,o
+rápido,schnell,,o
+ya,schon,,o
+inmediatamente,sofort,,o
+grande,groß,,a
+pequeño,klein,,a
+además,dazu,,o
+realmente,wirklich,,o
+frío,kalt,,a
+caliente,warm,,a
+exacto,genau,,o
+ok,genau,,o
+menos,vor,,o
+para,vor,,o
+spät,tarde,,o
+demasiado,zu,,o
+demasiado tarde,zu spät,,o
+eh,na,,o
+por último,zuletzt,,o
+para empezar,zuerst,,o
+largo,lang,,a
+a partir de,erst,,o
+abierto,geöffnet,,a
+cerrado,geschlossen,,a
+altura,hoch,,o
+por qué,warum,,o
+más tarde,später,,o
+diario,täglich,,o
+alrededor de,rund,,o
+aproximadamente,ungefähr,,o
+y media,halb,,o
+entonces,mal,,o
+pues,mal,,o
+otra vez,wieder,,o
+de nuevo,wieder,,o
+entonces,danach,,o
+a eso de,so um,,o
+cada,jedes,,o
+cada,jede,,o
+mesa,der tisch,tische
+suerte,das glück,
+hambre,der hunger,
+sed,der durst,
+cerveza,das bier,
+carta,die karte,karten
+agua mineral,das mineralwasser,
+agua,das wasser
+limón,die zitrone,zitronen
+sopa,die suppe,suppen
+sopa del día, die tagsuppe,tagsuppen
+ensalda,der salat,salate
+pollo,das hähnchen,
+arroz,der reis,
+carne,das fleisch,
+la cuenta,die rechnung,rechnungen
+camarero,der kellner,
+camarera,die kellnerin,kellnerinen
+la carta,die speisekarte,speisekarten
+te,der tee,tees
+café,der kaffee,kaffees
+persona,die person,personen
+casa,das haus,häusen
+pescado,der fisch,fische
+helado,das eis,
+huevo,das ei,eier
+jamón,der schinken,
+verdura,das gemüse,
+patata,die kartoffel,kartoffeln
+entrante,die vorspeise,vorspeisen
+plato principal,die hauptspeise,haputsspeisen
+litro,der liter,
+botella,die flasche,flaschen
+deseo,der wünsch,wünschen
+cine,das kono,kinos
+teatro,das theater,theaters
+película,der film,filme
+qué pena,schade,,o
+pena,schade,,o
+minuto,die minute,minuten
+museo,das museum,museen
+ticket,das ticket,tickets
+entrada,der eintritt,eintritte
+millón,die million,millionen
+persona,der mensch,mensche
+restaurante,das restaurant,restaurants
+hombre,der mann,männer
+mujer,die frau,frauen
+ciudad,die stadt,städte
+aeropuerto,der flughafen,flughäfen
+puerto,der hafen,häfen
+estación,der bahnhof,bähnhofe
+estacion central,der hauptbahnhof,hauptbahnhöfe
+jefe,das haupt,
+limonada,die limonade,limonaden
+zumo de manzana,die apfelsaft,apfelsäfte
+zumo,die saft,säfte
+vino,der wein,weine
+vino rojo,der rotwein,rotweine
+chocolate,die schokolade,schokoladen
+bar,das bistro,bistros
+bar,die bar,
+bar,die kneipe,kneipen
+fruta,das obst,
+ensalada de frutas,der obstsalat,obstsalate
+melón,die melone,melonen
+tortilla,das omelette,omelettes
+tarta de manzana,der apfelkuchen,
+hasta luego,bis dann,,o
+hasta prongo,bis bald,,o
+hasta ahora,bis gleich,,o
+reunión,das meeting,meetings
+idea,die idee,ideen
+habitante,die einwohner,
+turista,der tourist,touristen
+pasajero,der fahrgast,fahrgäste
+superficie,die flache,flachen
+puente,die brücke,brücken
+frontera,die grenze,grenzen
+ópera,die oper,opern
+iglesia,die kirche,kirchen
+grandes almacenes,die kaufhau,kaufhäusen
+parque,der park,parks
+gimnasio,das fitnesstudio,fitnesstudios
+parque municipal,der stadtpark,
+comprar,kaufen,,v
+gustar,mögen,,v
+comprar,einkaufe,,v
+lavar,waschen,,v
+cortar,schneide,,v
+loco,verrücht,,a
+dar,geben,,v
+sentarse,setzen,,v
+ir por,holen,,v
+recoger,holen,,v
+en,auf,,o
+después,naccher,,o
+raramente,selten,,o
+claro,klar,,o
+delicioso,lecker,,a
+rico,lecker,,a
+sabroso,lecker,,a
+mejor,lieber,,o
+mercado,der markt,märkte
+panadería,die bäckerei,bäckereien
+pera,die birne,birnen
+manzana,der apfel,äpfel
+plátano,die banane,bananen
+pimienta,die paprika,paprikas
+tomate,die tomate,tomaten
+ajo,der knoblauch,
+seta,der pilz,pilze
+pepino,die gurke,gurken
+cebolla,die zwiebel,zwiebeln
+pan,das brot,brote
+pan integral,das vollkornbrot,vollkornbrote
+pasta,das nudeln,
+azúcar,der zucker,
+harina,das mehl,
+leche,die milch,
+queso,der käse,
+crema,die sahne,
+ingrediente,die zutat,zutaten
+nevera,der külschrank,külschranke
+estantería,das regal,regale
+estante,das regal,regale
+gramo,das gramm,
+kilo,das kilo,kilos
+medio kilo,das pfund,
+aceite,das öl,
+puesto de fruta,das obstand,obstände
+carnicería,die metzgerei,metzgereien
+lata,die dose,dosen
+paquete,die packung,packungen
+taza,der becher,
+miel,der honig,
+jengibre,der ingwer,
+embutido,die wurst,
+oliva,die olive,oliven
+sal,das salz,
+cuchillo,das messer,
+plato de comida,das gericht,
+trozo,das stück,stücke
+pieza,das stück,stücke
+más tarde,mehr,,o
+estar lleno,satt sein,,v
+las 2 cosas,beide,,o
+último,letzt,,o
+levantarse,aufstehen,,v
+ver la tv,fernsehen,,v
+querer,lieben,,v
+amar,lieben,,v
+pasear,spazieren gehen,,v
+esperar,warten,,v
+llevar con alguien,mitnehmen,,v
+venir con alguien,mitkommen,,v
+ir con alguien,mitgehen,,v
+divertirse,spaß machen,,v
+ayudar,helfen,,v
+encontrarse con,treffen,,v
+tener libre,frei haben,,v
+practicar,üben,,v
+comentar,besprechen,,v
+hablar de,besprechen,,v
+mirar,schauen,,v
+mirar,gucken,,v
+planear,planen,,v
+organizar,organisieren,,v
+construir,bauen,,v
+ambos,beide,,o
+allí,dort,,o
+a menudo,oft,,o
+siempre,immer,,o
+nunca,nie,,o
+todo,ganz,,o
+cansado,müde,,a
+enermo,krank,,a
+jeder,cada,,o
+mucho,viel,,o
+si,doch,,o
+estupendo,prima,,a
+maravilloso,wunderbar,,a
+lejos,weit,,o
+fuera de casa,unterwegs,,o
+bonito,schön,,a
+hermoso,schön,,a
+prohibido,verboten,,a
+importante,wichtig,,a
+exacto,genau,,o
+escuela,der schule,schulen
+vacaciones,der urlaub,urlaube
+mar,der meer,meere
+desayuno,das frühstück,
+trabajo,die arbeit,arbeiten
+oficina,das büro,büros
+reunión,der termin,termine
+clase,die klasse,klassen
+perro,der hund,hunde
+lugar,der ort,orte
+isla,die insel,inseln
+lugar,die stelle,stellen
+puesto de trabajo,die arbeitstelle,arbeitstellen
+colega,der kollege,kollegen
+coche,das auto,autos
+problema,das problem,probleme
+test,der test,tests
+almuerzo,das mittagessen,
+conversación,das gespräch,gespräche
+reunión,das gespräch,gespräche
+novela policiaca,der krimi,krimis
+piano,das klavier,klaviere
+curioso,der kurs,kurse
+excursión,der ausflug,ausflüge
+tiempo libre,die freizeit,
+invitado,der gast,gäste
+plato,die speise,speisen
+ejemplo,das beispiel,beispiele
+primavera,der frühling,
+verano,der sommer,
+otoño,der herbst,
+invierno,der winter,
+momento,der moment,momente
+volver,zurückkommen,,v
+conocer,kennen,,v
+invitar,einladen,,v
+empezar,anfangen,,v
+limpiar la habitación,aufräumen,,v
+recoger,aufräumen,,v
+telefonear,anrufen,,v
+aceptar,annehmen,,v
+rechazar,absagen,,v
+alegrarse,freuen,,v
+alegrar,freuen,,v
+llevar,mitbringen,,v
+opinar,meinen,,v
+hacer postres,backen,,v
+recoger a alguien,abholen,,v
+conocer,kennenlernen,,v
+llegar,ankommen,,v
+reservar,reservieren,,v
+informar,bescheid geben,,v
+escribir,aufschreiben,,v
+estar presente,dabei sein,,v
+seguro,sicher,,o
+aburrido,langweilig,,o
+de verdad,echt,,o
+en serio,echt,,o
+por supuesto,na klar,,o
+pronto,bald,,o
+con mucho gustgo,herzlich,,o
+de vuelta,zurück,,o
+otra vez,noch mal,,o
+a la izquierda,links,,o
+a la derecha,rechts,,o
+izquierda,links,,o
+derecha,rechts,,o
+alguien,jemand,,o
+festival,das festival,festivals
+norte,der norden,
+sur,das süden,
+este,der ost,
+oeste,der west,
+banda,die band,bands
+canción,der song,songs
+película favorita,der lieblingsfilm,lieblingsfilme
+comida favorita,der lieblingsgericht,
+banda favorita,die lieblingsband,lieblignsbands
+vivienda,die wohnung,wohnungen
+habitación,das zimmer,
+invitación,die einladung,einladungen
+tren,der zug,züge
+hija,die tochter,töchter
+hijo,der sohn,
+hermano,der bruder,
+hermana,die schwester,
+río,der fluss,flüsse
+lema,das motto,mottos
+novela,der roman,romane
+planificación,die planung,planungen
+asunto,der betreff,betreffe
+encuentro,das treffen,
+inicio,der beginn,beginnen
+propina,das trinkgeld,trinkgelder
+aceptar,zusagen,,v
+gustar,gefallen,,v
+enseñar,zeigen,,v
+mostrar,zeigen,,v
+usar,benutzen,,v
+utilizar,benutzen,,v
+decir,sagen,,v
+entrar,reinkommen,,v
+funcionar,funktioneren,,v
+venir a casa,vorbeikommen,,v
+luminoso,hell,,a
+práctico,parktisch,,a
+feliz,glücklich,,a
+ancho,breit,,a
+cómodo,bequem,,a
+soleado,sonnig,,a
+bueno,gesund,,a
+sano,gesund,,a
+contento,froh,,a
+silencioso,leise,,a
+silencioso,ruhig,,a
+estrecho,schmall,,a
+normal,normal,,a
+caro,teuer,,a
+barato,billig,,a
+barato,günstig,,a
+casi,fast,,a
+oscuro,dunkel,,a
+otro,andere,,o
+sobre todo,vor allem,,o
+tranquilo,ruhig,,a
+simpático,nett,,a
+amable,nett,,a
+roto,kaputt,,a
+preparado,fertig,,a
+nervioso,nervös,,a
+interesnate,interessant,,a
+curioso,gespannt,,a
+es que,nämlich,,o
+comom mucho,maximal,,o
+ascensor,der aufzug,aufzüge
+habitación,das schlafzimmer,
+baño,das bad,bäder
+aseo,das bad,bäder
+baño pequeño,die toilette,toiletten
+balcón,der balkon,balkons
+sofá,das sofa,
+sol,die sonne,
+pasillo,der flur,flure
+sitio,der platz,
+lugar,der platz,
+ventana,das fenster,
+planta baja,das erdgenchoss,erdgenchosse
+piso,der stock,
+trastero,der keller,
+sótano,der keller,
+jardín,der garten,gärten
+cocina grande,die wohnküche,wohnküchen
+paquete,das paket,pakete
+vecino,der nachbar,nachbarn
+vecina,die nachbarin,nachbarinen
+tejado,das dach,dächer
+examen,die prüfung,prüfungen
+armario,der schrank,schränke
+cama,das bett,betten
+silla,der stuhl,stühle
+lámapra,die lampe,lampen
+abuela,die oma,omas
+mueble,die möbel,
+comedor,das esszimmer,
+cercanía,die nähe,
+azotea,die dachterrasse,dachterrassen
+portátil,der laptop,laptops
+alquiler,die miete,mieten
+cámara,die kamera,kameras
+cargador,das ladegerat,ladegerate
+contar,erzählen,,v
+salir,los fähren,,v
+saludar,grußen,,v
+enviar,senden,,v
+dar señales de vida,meiden,,v
+hacer barbacoa,grillen,,v
+oler,riechen,,v
+deber,sollen,,v
+querer que,sollen,,v
+esperar,hoffen,,v
+típico,typisch,,a
+en absoluto,gar,,o
+por fin,endlich,,o
+horrible,schreklich,,a
+a partir de,ab,,o
+caótico,chaotisch,,a
+perfecto,perfect,,a
+agradable,nett,,a
+divertido,spaßig,,a
+cena,das abendessen,
+hotel,das hotel,
+visita,der besuch,besuche
+viaje,die reise,reisen
+lago,der see,seen
+tiempo atmosférico,das wetter,
+equipaje,das gepäck,
+taxi,das taxi,
+playa,der strand,strände
+sauna,die sauna,saunen
+piscina,der pool,pools
+masaje,die massage,massagen
+mudanza,der umzug,umzüge
+bicicleta,das rad,räder
+caminata,die wanderung,wanderungen
+monedero,das portemonnaie,portamonnaies
+gafas de sol,die sonnenbrille,sonnenbrillen
+excursión en bici,die radtour,radtouren
+tour de la ciudad,die stradttour,stradttouren
+saludo,die anrede,anredes
+despedida,der schluss,
+parte central,der hauptteil,hauptteile
+sólo,erst,,o
+sólamente,erts,,o
+navegar,surfen,,v
+chatear,chatten,,v
+enviar,verschicken,,v
+tener lugar,stattfinden,,v
+conseguir,schaffen,,v
+ofrecer,anbieten,,v
+rechazar,ablehnen,,v
+cargar,tragen,,v
+casarse,heiraten,,v
+olvidar,vergessen,,v
+es decir,also,,o
+simplemente,einfach,,o
+sobre todo,besonders,,o
+joven,jung,,a
+una vez,einmal,,o
+dos veces,zweimal,,o
+desde,seit,,o
+desde hace,seit,,o
+divertido,lustig,,a
+positivo,positiv,,a
+negativo,negativ,,a
+entusiasmado,begeisters,,a
+raro,selten,,a
+acabado,beendet,,a
+posible,möglich,,o
+fresco,frisch,,a
+nada,nichts,,o
+siguiente,folgend,,o
+bueno,na ja,,o
+hora,die stunde,stunden
+buscador,die suchsmachine,suchsmachinen
+video,das video,videos
+llamada,der anruf,anrufe
+pasta,die pasta,
+receta,das rezept,rezepte
+bodega de vino,der weinkeller,
+lector,der leser,
+programa,das programm,
+fuegos artificiales,das freuerwerk,freuerwerke
+diálogo,der dialog,dialoge
+boda,die traung,traunge
+boda,die hochzeit,hochzeiten
+felicitación,die glückwunsch,glückwünsche
+navidad,das weihnachten,
+feliz navidad,frohe weihnachten,
+producto,das produkt,
+principio de palabra,der wortanfang,wortanfänge
+final de palabra,der wortende,wortenden
+arte,die kunst,künste
+sílaba,die silbe,silben
+ayuda,die hilfe,hilfen
+palabra,die aussage,aussagen
+sugerencia,der tipp,tipps
+recomendación,der tipp,tipps
+fiesta,das fest,feste
+camino,der weg,wege
+segundo,die sekunde,sekunden
+pedir,bitten,,v
+preguntar,bitten,,v
+reaccionar,reagieren,,v
+poder,dürfen,,v
+regalar,schenken,,v
+dar las gracias,danken,,v
+agradecer,danken,,v
+enviar,schicken,,v
+explicar,eklären,,v
+pasar,los sein,,v
+suceder,los sein,,v
+elegir,wählen,,v
+seleccionar,wählen,,v
+indicar,eingeben,,v
+marcar,markieren,,v
+subir,hochladen,,v
+redactar,erstellen,,v
+imprimir,drucken,,v
+pulsar,drücken,,v
+empujar,drücken,,v
+apretar,drücken,,v
+escanear,scannen,,v
+copiar,kopieren,,v
+descargar,downloaden,,v
+hacer click,klicken,,v
+seleccionar,auswählen,,v
+añadir,hinzufügen,,v
+llevar consigo,dabei haben,,v
+aquí a la vuelta,um die ecke,,o
+pesado,schwer,,o
+incluido,inklusive,,o
+aquí tiene,bitte sehr,,o
+normalmente,normalerweise,,o
+a veces,manchmal,,o
+raro,komisch,,a
+impuntual,unpünktlich,,a
+fuerte,stark,,a
+débil,schwach,,a
+ir a pie,zu fuß gehen,,v
+grosero,unhÑoflich,,a
+a pie,zu fuß,,o
+padre,der vater,väter
+plan,der plan,pläne
+adulto,der erwachsene,erwachsenen
+visita guiada,die führung,führunge
+grupo,die gruppe,gruppen
+estudiante,der schüler,
+extranjero,das ausland,
+banco,die bank,banken
+dinero,das geld,
+plata,das geld,
+correos,die post,
+tema,das thema,themen
+centro,das zentrum,zentren
+fotocopia,die kopie,kopien
+papel,das papier,papiere
+archivo,der ordner,
+documento,die datei,dateien
+castillo,das schloss,schlösser
+palacio,das schloss,schlösser
+plano de la ciudad,der stadtplan,stadtpläne
+horario de salida,die abfahrtszeit,abfarhtszeiten
+precio de la entrada,der eintrittspreis,eintrittpreise
+jubilado,der senior,senioren
+jubilada,die seniorin,seniorinen
+cajero automático,der geldautomat,geldautomaten
+tarjeta postal,die postkarte,postkarten
+souvenir,das souvenir,souvenirs
+tecla,der button,buttons
+ticket de tren,das zugticket,zugtickets
+horario de bus,der busfahrplan,
+retraso,die verspätung,verspätunge
+atasco,der stau,staus
+embotellamiento,der stau,staus
+vez,das mal,
+avería,die panne,pannen
+puntualidad,die pünktlichkeit,
+patria,das heimatland,
+número,die anzahl,anzahlen
+cantidad,die anzahl,anzahlen
+álbum,das album,alben
+carpeta,die mappe,mappen
+dinero suelto,das bargeld,
+cash,das bargeld,
+saludar,begrußen,,v
+dirigir,leiten,,v
+estar aquí,da sein,,v
+iniciar,starten,,v
+significar,bedeuten,,v
+acabar,fertigmachen,,v
+hablar,reden,,v
+preparar,vorbereiten,,v
+limpiar,putzen,,v
+fumar,rauchen,,v
+fregar,spülen,,v
+lavar,spülen,,v
+meter,stechen,,v
+contestar,beantworten,,v
+rápido,fix,,a
+si no,sonst,,o
+junto a,neben,,o
+debajo de,unter,,o
+detrás de,hinter,,o
+encima de,über,,o
+delante de,vor,,o
+junto,neben,,o
+debajo,unter,,o
+detrás,hinter,,o
+encima,über,,o
+delante,vor,,o
+muy,ganz,,o
+distinto,anders,,o
+ya está,geschafft,,o
+cueste lo que cueste,unbediengt,,o
+entre,zwischen,,o
+en primer lugar,zuerst,,o
+práctica,das praktikum,praktika
+solicitud,die bewerbung,bewerbunge
+solicitante,der bewerber,
+conversación telefónica,das telefongespräch,telefongespräche
+día de trabajo,der arbeitstag,arbeitstage
+pared,die wand,wände
+muro,die wand,wände
+planta,die pflanze,pflanzen
+agenda,der terminkalender,
+habitación,der raum,räume
+sala de reuniones,der besprechungsraum,
+papelera,die papierkorb,papierkorbe
+concepto,das konzept,
+contenido,der inhalt,inhalte
+página,die seite,seiten
+debate,die diskussion,diskussionen
+información,die information,informationen
+informe,der bericht,berichte
+horario laboral,die arbeitszeit,arbeitszeiten
+empresa,die firma,firmen
+puesto de trabajo,der arbeitsplatz,
+socio,der partner,
+trabajo,der job,jobs
+carrera,das studium,studien
+comedor,die kantine,kantinen
+cafetera,die kaffeemaschine,kaffeemaschinen
+fumador,der raucher,
+fumadora,die raucherin,raucherinen
+pausa,die pause,pausen
+descanso,die pause,pausen
+fin,der schluss,
+objetivo,der schluss,
+error,der fehler,
+comentario,die rückmeldung,rückmeldungen
+respuesta,die rückmeldung,rückmeldungen
+señora,die dame,damen
+señor,der herr,herren
+ruego,die bitte,bitten
+cancelación,die absage,absagen
+decisión,der bescheid,
+correr,laufen,,v
+prometer,versprehen,,v
+moletar,stören,,v
+hacer tiempo,her sein,,v
+reir,lachen,,v
+vaciar,ausräumen,,v
+meter algo en un sitio,einräumen,,v
+meter,einräumen,,v
+encender,einschalten,,v
+sacar,rausbringen,,v
+pasar el aspirador,staubsaugen,,v
+colgar,aufhängen,,v
+poner,decken,,v
+planchar,bügeln,,v
+para hacer,zu tun,,o
+para acabar,zu ende,,o
+antes,vorher,,o
+solo,allein,,o
+fuera,draußen,,o
+sin,ohne,,o
+masculino,männlich,,a
+femenino,weiblich,,a
+urgente,dringend,,a
+quién,wem,,o
+a quién,wen,,o
+igual,gleich,,o
+relajado,entspannt,,a
+tranquilo,entspannt,,a
+también,ebenso,,o
+nadie,niemand,,o
+abuelos,großeltern,
+tía,die tante,tanten
+tío,der onkel,
+soltero,der single,singles
+abuela,großmutter,
+abuelo,großvater,
+abuelito,der opa,opas
+nieto,der enkel,
+nieta,die enkelin,enkelinen
+nieto,das enkelkind,enkelkinder
+pueblo,das dorf,dörfer
+hogar,der haushalt,haushalte
+por ciento,das prozent,prozente
+trabajo doméstico,die hausarbeit,hausarbeiten
+resultado,das ergebnis,
+razón,der grund,
+historia,die geschicte,geschicten
+juventud,die jugend,
+naturaleza,die natur,
+mantequilla,die butter,
+taza,die tasse,tassen
+lavavajillas,die spülmaschine,spülmaschinen
+lavadora,die waschmaschine,waschmachinen
+basura,der müll,
+vajilla,das geschirr,
+colada,die wäsche,
+ropa sucia,die wäsche,
+poner la mesa,decken,,v
+
