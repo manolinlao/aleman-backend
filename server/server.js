@@ -33,3 +33,16 @@ mongoose.connect(process.env.URLDB, { useNewUrlParser: true },(error,respuesta)=
 app.listen(process.env.PORT, ()=>{
     console.log("Escuchando puerto ",process.env.PORT);
 });
+
+
+/*
+en Heroku lo he puesto en
+https://aleman-backend.herokuapp.com/
+*/
+
+/*
+en mLab hago la bbdd mongo
+mongodb://<dbuser>:<dbpassword>@ds135786.mlab.com:35786/aleman
+usuario: aleman-user
+passwrord:1234alemanuser
+*/

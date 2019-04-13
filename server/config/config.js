@@ -20,10 +20,18 @@ if(process.env.NODE_ENV==="dev"){
 }else{
     // la url del mlab la protejo
     // heroku config:set MONGO_URI= “mongodb://cafe-user:1234cafeuser@ds115874.mlab.com:15874/cafe”
-    urlDB = process.env.MONGO_URI;
+    urlDB = 'mongodb://aleman-user:1234alemanuser@ds135786.mlab.com:35786/aleman';
+    //urlDB = process.env.MONGO_URI;
 }
+
+
+
+
 //nos inventamos el environment URLDB que usaremos en server.js
 process.env.URLDB = urlDB;
+process.env.URLDBLocal = 'mongodb://localhost:27017/aleman';
+process.env.URLDBMLab = 'mongodb://aleman-user:1234alemanuser@ds135786.mlab.com:35786/aleman';
+
 
 //==========================
 //  Vencimiento del token

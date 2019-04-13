@@ -1,3 +1,9 @@
+/*
+La ejecución de esto se hará por línea de comandos
+node server/grabarPalabras local
+node server/grabarPalabras mlab
+*/
+
 require('./config/config');
 
 const mongoose = require('mongoose');
@@ -7,7 +13,23 @@ const Verbo = require('./modelos/verbo');
 let fs = require('fs');
 
 // Conexión con la BD llamada 'aleman'
-mongoose.connect(process.env.URLDB, { useNewUrlParser: true },(error,respuesta)=>{
+let my_urlDB = process.env.URLDBLocal;
+
+//lectura de parámetros
+let argv = process.argv;
+let parametro = argv[2];
+try{
+    if(argv[2].toLowerCase()==='mlab'){
+        my_urlDB = process.env.URLDBMLab;
+    }
+}catch(e){
+
+}
+console.log(`Grabando verbos en ${my_urlDB}`);
+
+
+// Conexión con la BD llamada 'aleman'
+mongoose.connect(my_urlDB, { useNewUrlParser: true },(error,respuesta)=>{
     if(error){
         console.log("Error conectando cono BD en puerto 27017");
         return;

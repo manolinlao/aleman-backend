@@ -10,6 +10,8 @@ const { verificaToken,verificaSuper_Role,activaCORS } = require('../middlewares/
 
 //Obtiene todas las palabras, no hace falta autenticación con token
 //Necesita el middleware para activar el CORS
+//usando la aplicación que he deployado en herokku: https://aleman-backend.herokuapp.com/getallpalabras
+
 app.get('/getAllPalabras',[activaCORS],(req,res)=>{
     Palabra.find({})
         .sort('ale')
