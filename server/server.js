@@ -38,11 +38,25 @@ app.listen(process.env.PORT, ()=>{
 /*
 en Heroku lo he puesto en
 https://aleman-backend.herokuapp.com/
+
+para acceder a las apis, por ejemplo:
+https://aleman-backend.herokuapp.com/getallpalabras
+
+
 */
 
 /*
 en mLab hago la bbdd mongo
 mongodb://<dbuser>:<dbpassword>@ds135786.mlab.com:35786/aleman
+
+mongodb://aleman-user:1234alemanuser@ds135786.mlab.com:35786/aleman
 usuario: aleman-user
 passwrord:1234alemanuser
+*/
+
+/* para loguearte cono SUPER_ROLE y poder hacer posts:
+    manolin
+    manolinlao@gmail.com  
+    12345678 
+    SUPER_ROLE
 */
